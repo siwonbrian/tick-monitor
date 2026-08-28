@@ -43,12 +43,12 @@
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 44,
+        "stock": 43,
         "unlimited": false
       },
       "472721944": {
         "name": "SWITCH 루이지 맨션 2 HD",
-        "stock": 36,
+        "stock": 34,
         "unlimited": false
       },
       "472721945": {
@@ -58,7 +58,7 @@
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 30,
+        "stock": 28,
         "unlimited": false
       },
       "472721947": {
@@ -88,7 +88,7 @@
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 139,
+        "stock": 136,
         "unlimited": false
       },
       "861611821": {
@@ -464,6 +464,10 @@
     "3611265": {
       "name": "SWITCH 모여봐요 동물의 숲",
       "sellingPrice": 59800
+    },
+    "14192559": {
+      "name": "닌텐도 스위치2 하늘의 궤적 the 2nd 초회판 (9/16 출고)",
+      "sellingPrice": 90300
     },
     "13722846": {
       "name": "닌텐도 스위치 파이널 판타지 택틱스 이발리스 크로니클즈 한글판",
