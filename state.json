@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 237,
+        "stock": 236,
         "unlimited": false
       },
       "383918562": {
@@ -28,17 +28,17 @@
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 28,
+        "stock": 29,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 19,
+        "stock": 20,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 41,
+        "stock": 40,
         "unlimited": false
       },
       "472721943": {
@@ -83,12 +83,12 @@
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 216,
+        "stock": 215,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 136,
+        "stock": 135,
         "unlimited": false
       },
       "861611821": {
@@ -584,10 +584,6 @@
     "7404683": {
       "name": "SWITCH 젤다의 전설 티어스 오브 더 킹덤",
       "sellingPrice": 64800
-    },
-    "3612192": {
-      "name": "SWITCH 마리오 카트 8 디럭스",
-      "sellingPrice": 59800
     },
     "6902414": {
       "name": "닌텐도 스위치 / OLED / Lite 호환 이이네 몬스터헌터 몬헌 조이콘버튼 스틱 커버 - 레드/블루",
