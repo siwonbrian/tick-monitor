@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 234,
+        "stock": 232,
         "unlimited": false
       },
       "383918562": {
@@ -83,12 +83,12 @@
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 207,
+        "stock": 206,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 116,
+        "stock": 115,
         "unlimited": false
       },
       "861611821": {
@@ -340,10 +340,6 @@
     "11952587": {
       "name": "[NS 2] 닌텐도 스위치2 동키콩 바난자",
       "sellingPrice": 83000
-    },
-    "7297885": {
-      "name": "SWITCH 피크민4",
-      "sellingPrice": 64800
     },
     "11660525": {
       "name": "[NS 2] 닌텐도 스위치 2 소닉x섀도우 제너레이션즈",
