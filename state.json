@@ -28,7 +28,7 @@
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 27,
+        "stock": 26,
         "unlimited": false
       },
       "383918568": {
@@ -48,12 +48,12 @@
       },
       "472721944": {
         "name": "SWITCH 루이지 맨션 2 HD",
-        "stock": 33,
+        "stock": 32,
         "unlimited": false
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 47,
+        "stock": 46,
         "unlimited": false
       },
       "472721946": {
@@ -83,12 +83,12 @@
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 205,
+        "stock": 206,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 115,
+        "stock": 113,
         "unlimited": false
       },
       "861611821": {
@@ -552,10 +552,6 @@
     "12229883": {
       "name": "닌텐도 스위치 진홍의 연금술사와 순백의 수호자 레슬레리아나의 아틀리에 초회판",
       "sellingPrice": 72800
-    },
-    "3612197": {
-      "name": "SWITCH 젤다의 전설 브레스 오브 더 와일드",
-      "sellingPrice": 64800
     },
     "4137326": {
       "name": "SWITCH 포켓몬스터 소드",
