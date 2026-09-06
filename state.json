@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 231,
+        "stock": 230,
         "unlimited": false
       },
       "383918562": {
@@ -28,12 +28,12 @@
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 26,
+        "stock": 25,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 18,
+        "stock": 17,
         "unlimited": false
       },
       "383918569": {
@@ -428,10 +428,6 @@
     "12430269": {
       "name": "닌텐도 스위치 포켓몬 레전드 Z-A",
       "sellingPrice": 69800
-    },
-    "14192559": {
-      "name": "닌텐도 스위치2 하늘의 궤적 the 2nd 초회판 (9/16 출고)",
-      "sellingPrice": 90300
     },
     "11801845": {
       "name": "닌텐도 스위치2 와일드 하츠 S",
