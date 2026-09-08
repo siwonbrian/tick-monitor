@@ -33,22 +33,22 @@
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 16,
+        "stock": 15,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 27,
+        "stock": 26,
         "unlimited": false
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 40,
+        "stock": 39,
         "unlimited": false
       },
       "472721944": {
         "name": "SWITCH 루이지 맨션 2 HD",
-        "stock": 31,
+        "stock": 29,
         "unlimited": false
       },
       "472721945": {
@@ -83,12 +83,12 @@
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 198,
+        "stock": 196,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 96,
+        "stock": 94,
         "unlimited": false
       },
       "861611821": {
@@ -467,7 +467,7 @@
     },
     "12682262": {
       "name": "닌텐도 스위치 메트로이드 프라임 4 비욘드 + 조이콘버튼커버 2개",
-      "sellingPrice": 74800
+      "sellingPrice": 69800
     },
     "11859256": {
       "name": "닌텐도 스위치 다마고치 원더 샵",
@@ -517,10 +517,6 @@
       "name": "닌텐도 스위치 슈퍼 마리오 파티 잼버리 + 조이콘버튼커버 2개",
       "sellingPrice": 69000
     },
-    "12682267": {
-      "name": "닌텐도 스위치 메트로이드 프라임 4 비욘드 Switch 2 Edition",
-      "sellingPrice": 84800
-    },
     "14189142": {
       "name": "닌텐도 스위치 삼국지14 with 파워업키트 컴플리트 에디션 초회판(9/9 출고)",
       "sellingPrice": 72800
@@ -540,6 +536,10 @@
     "5411871": {
       "name": "닌텐도 스위치 페르소나5 더 로열 + 조이콘버튼커버 2개",
       "sellingPrice": 69800
+    },
+    "12682267": {
+      "name": "[NS2] 닌텐도 스위치2 메트로이드 프라임 4 비욘드 Switch 2 Edition",
+      "sellingPrice": 84800
     },
     "14222583": {
       "name": "닌텐도 스위치2 EA 스포츠 FC 27 초회판(9/23부터 순차 출고)",
@@ -723,7 +723,7 @@
     },
     "12533522": {
       "name": "[NS 2 전용] 닌텐도 스위치 2 젤다무쌍 봉인전기",
-      "sellingPrice": 89800
+      "sellingPrice": 84800
     },
     "14113449": {
       "name": "[예약판매 10월 22일 출고] 닌텐도 스위치 파밍 캠프",
