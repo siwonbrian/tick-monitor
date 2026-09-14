@@ -8,12 +8,12 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 252,
+        "stock": 235,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 74,
+        "stock": 64,
         "unlimited": false
       },
       "383918563": {
@@ -23,27 +23,27 @@
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 10,
+        "stock": 8,
         "unlimited": false
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 13,
+        "stock": 9,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 25,
+        "stock": 18,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 157,
+        "stock": 144,
         "unlimited": false
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 32,
+        "stock": 26,
         "unlimited": false
       },
       "472721944": {
@@ -53,7 +53,7 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 78,
+        "stock": 68,
         "unlimited": false
       },
       "472721946": {
@@ -63,37 +63,37 @@
       },
       "472721947": {
         "name": "SWITCH 포켓몬 레전드 아르세우스",
-        "stock": 39,
+        "stock": 0,
         "unlimited": false
       },
       "472721948": {
         "name": "SWITCH 루이지 맨션 3",
-        "stock": 16,
+        "stock": 9,
         "unlimited": false
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 101,
+        "stock": 74,
         "unlimited": false
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 44,
+        "stock": 26,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 251,
+        "stock": 233,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 91,
+        "stock": 59,
         "unlimited": false
       },
       "861611820": {
         "name": "SWITCH 젤다의 전설 지혜의 투영",
-        "stock": 10,
+        "stock": 7,
         "unlimited": false
       },
       "861611821": {
@@ -103,12 +103,12 @@
       },
       "861611822": {
         "name": "SWITCH 포켓몬스터 실드",
-        "stock": 25,
+        "stock": 10,
         "unlimited": false
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 27,
+        "stock": 23,
         "unlimited": false
       }
     }
@@ -117,10 +117,6 @@
     "6415759": {
       "name": "[닌텐도] 닌텐도 스위치 인기 타이틀 모음 25종 중 택1",
       "sellingPrice": 55800
-    },
-    "12794377": {
-      "name": "닌텐도 스위치2 포켓몬 포코피아",
-      "sellingPrice": 83000
     },
     "13103376": {
       "name": "닌텐도 스위치 친구모아 아일랜드 두근두근 라이프",
@@ -393,10 +389,6 @@
     "2486917": {
       "name": "닌텐도 스위치 룬 팩토리 5 한글판",
       "sellingPrice": 64800
-    },
-    "10267575": {
-      "name": "SWITCH 역전검사 1&2 미츠루기 셀렉션",
-      "sellingPrice": 42800
     },
     "12643130": {
       "name": "닌텐도 스위치 산리오캐릭터즈 마법 술래잡기 + 조이콘버튼커버 2개",
@@ -705,6 +697,10 @@
     "14176759": {
       "name": "닌텐도 스위치2 마인크래프트 던전스 2 예약판(마우스패드 증정, 9/29 출고)",
       "sellingPrice": 34800
+    },
+    "14306067": {
+      "name": "닌텐도 스위치 택시 카오스2 (11/25 출고)",
+      "sellingPrice": 37000
     },
     "14176762": {
       "name": "닌텐도 스위치2 제노블레이드 크로니클스 2 Nintendo Switch 2 Edition(9/30 출고)",
