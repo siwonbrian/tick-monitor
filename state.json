@@ -23,7 +23,7 @@
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 1,
+        "stock": 0,
         "unlimited": false
       },
       "383918566": {
@@ -33,12 +33,12 @@
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 31,
+        "stock": 30,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 119,
+        "stock": 115,
         "unlimited": false
       },
       "472721943": {
@@ -53,7 +53,7 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 127,
+        "stock": 125,
         "unlimited": false
       },
       "472721946": {
@@ -73,27 +73,27 @@
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 48,
+        "stock": 45,
         "unlimited": false
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 71,
+        "stock": 63,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 174,
+        "stock": 169,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 112,
+        "stock": 94,
         "unlimited": false
       },
       "861611820": {
         "name": "SWITCH 젤다의 전설 지혜의 투영",
-        "stock": 13,
+        "stock": 12,
         "unlimited": false
       },
       "861611821": {
@@ -505,6 +505,10 @@
     "12757737": {
       "name": "닌텐도 스위치2 파이널 판타지 7 리메이크 인터그레이드",
       "sellingPrice": 52800
+    },
+    "14313548": {
+      "name": "닌텐도 스위치2 드래곤즈 도그마 2 다크 어리즌 초회판(10/8 출고)",
+      "sellingPrice": 54100
     },
     "12024006": {
       "name": "[NS 2] 닌텐도 스위치2 조이콘 스틱커버 별의커비 테마 4P 이이네",
