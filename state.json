@@ -8,12 +8,12 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 173,
+        "stock": 171,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 38,
+        "stock": 35,
         "unlimited": false
       },
       "383918563": {
@@ -33,32 +33,32 @@
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 29,
+        "stock": 27,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 113,
+        "stock": 111,
         "unlimited": false
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 11,
+        "stock": 10,
         "unlimited": false
       },
       "472721944": {
         "name": "SWITCH 루이지 맨션 2 HD",
-        "stock": 28,
+        "stock": 27,
         "unlimited": false
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 123,
+        "stock": 120,
         "unlimited": false
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 7,
+        "stock": 6,
         "unlimited": false
       },
       "472721947": {
@@ -73,22 +73,22 @@
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 43,
+        "stock": 38,
         "unlimited": false
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 62,
+        "stock": 60,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 164,
+        "stock": 162,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 84,
+        "stock": 78,
         "unlimited": false
       },
       "861611820": {
@@ -108,7 +108,7 @@
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 33,
+        "stock": 32,
         "unlimited": false
       }
     }
@@ -466,13 +466,13 @@
       "name": "닌텐도 스위치 애프터러브 EP(4대 특전 포함)",
       "sellingPrice": 45800
     },
-    "14323710": {
-      "name": "닌텐도 스위치2 스텔라 블레이드 컴플리트 에디션(11/5 출고)",
-      "sellingPrice": 69800
-    },
     "14189142": {
       "name": "닌텐도 스위치 삼국지14 with 파워업키트 컴플리트 에디션 초회판",
       "sellingPrice": 72800
+    },
+    "14323710": {
+      "name": "닌텐도 스위치2 스텔라 블레이드 컴플리트 에디션(11/5 출고)",
+      "sellingPrice": 69800
     },
     "4480079": {
       "name": "[닌텐도 스위치] 스포츠 SPORTS 한글판",
