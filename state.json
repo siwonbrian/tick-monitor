@@ -8,12 +8,12 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 136,
+        "stock": 135,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 24,
+        "stock": 23,
         "unlimited": false
       },
       "383918563": {
@@ -33,7 +33,7 @@
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 7,
+        "stock": 5,
         "unlimited": false
       },
       "383918569": {
@@ -53,12 +53,12 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 99,
+        "stock": 97,
         "unlimited": false
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 1,
+        "stock": 0,
         "unlimited": false
       },
       "472721947": {
@@ -78,17 +78,17 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 40,
+        "stock": 37,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 132,
+        "stock": 128,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 9,
+        "stock": 6,
         "unlimited": false
       },
       "861611820": {
@@ -338,13 +338,13 @@
       "name": "닌텐도 스위치 파이널 판타지 택틱스 이발리스 크로니클즈 한글판",
       "sellingPrice": 62800
     },
-    "14020184": {
-      "name": "닌텐도 스위치 토이 스토리: 레트로 라운드업+토이 스토리3 컴플리트 에디션 더블 팩(10/14 출고)",
-      "sellingPrice": 49800
-    },
     "12430286": {
       "name": "[NS 2] 닌텐도 스위치2 포켓몬 레전드 Z-A 특전포함",
       "sellingPrice": 79800
+    },
+    "14020184": {
+      "name": "닌텐도 스위치 토이 스토리: 레트로 라운드업+토이 스토리3 컴플리트 에디션 더블 팩(10/14 출고)",
+      "sellingPrice": 49800
     },
     "11686496": {
       "name": "닌텐도 스위치2 스트리트 파이터6 Years 1-2 파이터즈 에디션 한글판",
