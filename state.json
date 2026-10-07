@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 97,
+        "stock": 95,
         "unlimited": false
       },
       "383918562": {
@@ -78,12 +78,12 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 6,
+        "stock": 5,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 90,
+        "stock": 91,
         "unlimited": false
       },
       "861611819": {
@@ -754,13 +754,13 @@
       "name": "NS2 닌텐도 스위치2 포켓몬 포코피아 익스팬션패스",
       "sellingPrice": 41800
     },
-    "14336350": {
-      "name": "NS2 닌텐도 스위치2  귀무자 검사의 길 Way of the Sword",
-      "sellingPrice": 83800
-    },
     "12533522": {
       "name": "[NS 2 전용] 닌텐도 스위치 2 젤다무쌍 봉인전기",
       "sellingPrice": 84800
+    },
+    "14336350": {
+      "name": "NS2 닌텐도 스위치2  귀무자 검사의 길 Way of the Sword",
+      "sellingPrice": 83800
     },
     "14336345": {
       "name": "NS2 닌텐도 스위치2 나의 히어로 아카데미아 올즈 저스티스",
