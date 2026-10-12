@@ -8,27 +8,27 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 200,
+        "stock": 198,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 19,
+        "stock": 17,
         "unlimited": false
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 149,
+        "stock": 129,
         "unlimited": false
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 100,
+        "stock": 98,
         "unlimited": false
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 100,
+        "stock": 96,
         "unlimited": false
       },
       "383918568": {
@@ -38,12 +38,12 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 100,
+        "stock": 99,
         "unlimited": false
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 99,
+        "stock": 98,
         "unlimited": false
       },
       "472721944": {
@@ -53,32 +53,32 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 100,
+        "stock": 99,
         "unlimited": false
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 20,
+        "stock": 19,
         "unlimited": false
       },
       "472721947": {
         "name": "SWITCH 포켓몬 레전드 아르세우스",
-        "stock": 45,
+        "stock": 32,
         "unlimited": false
       },
       "472721948": {
         "name": "SWITCH 루이지 맨션 3",
-        "stock": 29,
+        "stock": 25,
         "unlimited": false
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 50,
+        "stock": 40,
         "unlimited": false
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 50,
+        "stock": 45,
         "unlimited": false
       },
       "472721954": {
@@ -88,7 +88,7 @@
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 199,
+        "stock": 194,
         "unlimited": false
       },
       "861611820": {
@@ -98,7 +98,7 @@
       },
       "861611821": {
         "name": "SWITCH 포켓몬스터 소드",
-        "stock": 16,
+        "stock": 6,
         "unlimited": false
       },
       "861611822": {
@@ -108,7 +108,7 @@
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 20,
+        "stock": 17,
         "unlimited": false
       }
     }
@@ -161,10 +161,6 @@
     "13711715": {
       "name": "닌텐도 스위치2 스플래툰 레이더스",
       "sellingPrice": 68000
-    },
-    "11559818": {
-      "name": "닌텐도 스위치2 젤다의 전설 티어스 오브 더 킹덤 Nintendo Switch 2 Edition",
-      "sellingPrice": 79800
     },
     "14398519": {
       "name": "닌텐도 스위치2 젤다의 전설 시간의 오카리나 예약판(데스크패드/키캡 키링 택1 증정, 11/4 출고)",
@@ -525,10 +521,6 @@
     "12682262": {
       "name": "닌텐도 스위치 메트로이드 프라임 4 비욘드 + 조이콘버튼커버 2개",
       "sellingPrice": 69800
-    },
-    "14386344": {
-      "name": "닌텐도 스위치 저스트 댄스 히트곡 모음 리미티드 에디션(10/12 출고)",
-      "sellingPrice": 59800
     },
     "12219762": {
       "name": "닌텐도 스위치 닌자 가이덴 레이지바운드 스탠다드 에디션",
