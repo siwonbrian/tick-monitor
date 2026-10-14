@@ -8,42 +8,42 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 153,
+        "stock": 154,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 4,
+        "stock": 3,
         "unlimited": false
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 41,
+        "stock": 39,
         "unlimited": false
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 89,
+        "stock": 88,
         "unlimited": false
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 81,
+        "stock": 80,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 84,
+        "stock": 83,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 66,
+        "stock": 65,
         "unlimited": false
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 78,
+        "stock": 77,
         "unlimited": false
       },
       "472721944": {
@@ -53,7 +53,7 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 73,
+        "stock": 72,
         "unlimited": false
       },
       "472721946": {
@@ -83,17 +83,17 @@
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 259,
+        "stock": 258,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 102,
+        "stock": 99,
         "unlimited": false
       },
       "861611820": {
         "name": "SWITCH 젤다의 전설 지혜의 투영",
-        "stock": 6,
+        "stock": 4,
         "unlimited": false
       },
       "861611821": {
@@ -478,13 +478,13 @@
       "name": "닌텐도스위치 NSW 하베스텔라",
       "sellingPrice": 69000
     },
-    "14386344": {
-      "name": "닌텐도 스위치 저스트 댄스 히트곡 모음 리미티드 에디션",
-      "sellingPrice": 59800
-    },
     "7057605": {
       "name": "닌텐도 스위치 시푸 한글 일반판",
       "sellingPrice": 58000
+    },
+    "14386344": {
+      "name": "닌텐도 스위치 저스트 댄스 히트곡 모음 리미티드 에디션",
+      "sellingPrice": 59800
     },
     "11769242": {
       "name": "[NS 2]닌텐도 스위치 2 브레이블리 디폴트 FLYING FAIRY HD Remaster",
