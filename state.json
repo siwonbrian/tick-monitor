@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 152,
+        "stock": 149,
         "unlimited": false
       },
       "383918562": {
@@ -18,7 +18,7 @@
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 37,
+        "stock": 35,
         "unlimited": false
       },
       "383918565": {
@@ -38,7 +38,7 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 63,
+        "stock": 62,
         "unlimited": false
       },
       "472721943": {
@@ -68,27 +68,27 @@
       },
       "472721948": {
         "name": "SWITCH 루이지 맨션 3",
-        "stock": 8,
+        "stock": 5,
         "unlimited": false
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 9,
+        "stock": 6,
         "unlimited": false
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 26,
+        "stock": 24,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 258,
+        "stock": 255,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 96,
+        "stock": 89,
         "unlimited": false
       },
       "861611820": {
@@ -446,6 +446,10 @@
       "name": "[NS 2 전용] 닌텐도 스위치2 프래그마타",
       "sellingPrice": 69000
     },
+    "13703239": {
+      "name": "[NS 2] 닌텐도 스위치 2 포켓몬 포코피아",
+      "sellingPrice": 89800
+    },
     "14313541": {
       "name": "닌텐도 스위치 파이널 판타지 레조넌스 초회판(10/21 출고)",
       "sellingPrice": 65800
@@ -477,6 +481,10 @@
     "14386344": {
       "name": "닌텐도 스위치 저스트 댄스 히트곡 모음 리미티드 에디션",
       "sellingPrice": 59800
+    },
+    "14477328": {
+      "name": "닌텐도 스위치2 아노말리스 초회판(10/28 출고)",
+      "sellingPrice": 69700
     },
     "11769242": {
       "name": "[NS 2]닌텐도 스위치 2 브레이블리 디폴트 FLYING FAIRY HD Remaster",
