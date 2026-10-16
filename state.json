@@ -18,7 +18,7 @@
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 16,
+        "stock": 13,
         "unlimited": false
       },
       "383918565": {
@@ -38,7 +38,7 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 60,
+        "stock": 59,
         "unlimited": false
       },
       "472721943": {
@@ -53,12 +53,12 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 65,
+        "stock": 64,
         "unlimited": false
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 9,
+        "stock": 8,
         "unlimited": false
       },
       "472721947": {
@@ -78,17 +78,17 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 17,
+        "stock": 15,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 247,
+        "stock": 245,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 74,
+        "stock": 70,
         "unlimited": false
       },
       "861611820": {
@@ -103,7 +103,7 @@
       },
       "861611822": {
         "name": "SWITCH 포켓몬스터 실드",
-        "stock": 16,
+        "stock": 15,
         "unlimited": false
       },
       "879304169": {
@@ -734,13 +734,13 @@
       "name": "닌텐도 스위치2 닌텐도 스위치 스포츠 리조트 예약판(무선 줄넘기 증정, 10/21 출고)",
       "sellingPrice": 68000
     },
-    "14176759": {
-      "name": "닌텐도 스위치2 마인크래프트 던전스 2 (마우스패드 증정)",
-      "sellingPrice": 34800
-    },
     "14138866": {
       "name": "닌텐도 스위치2 포켓몬 포코피아 익스팬션 패스",
       "sellingPrice": 39900
+    },
+    "14176759": {
+      "name": "닌텐도 스위치2 마인크래프트 던전스 2 (마우스패드 증정)",
+      "sellingPrice": 34800
     },
     "14486366": {
       "name": "NS2 닌텐도 스위치 2 바이오하자드 레퀴엠",
