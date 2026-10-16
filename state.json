@@ -18,12 +18,12 @@
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 24,
+        "stock": 20,
         "unlimited": false
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 87,
+        "stock": 85,
         "unlimited": false
       },
       "383918566": {
@@ -38,7 +38,7 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 59,
+        "stock": 60,
         "unlimited": false
       },
       "472721943": {
@@ -53,12 +53,12 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 66,
+        "stock": 65,
         "unlimited": false
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 11,
+        "stock": 10,
         "unlimited": false
       },
       "472721947": {
@@ -68,7 +68,7 @@
       },
       "472721948": {
         "name": "SWITCH 루이지 맨션 3",
-        "stock": 5,
+        "stock": 3,
         "unlimited": false
       },
       "472721952": {
@@ -78,22 +78,22 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 18,
+        "stock": 17,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 251,
+        "stock": 249,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 79,
+        "stock": 78,
         "unlimited": false
       },
       "861611820": {
         "name": "SWITCH 젤다의 전설 지혜의 투영",
-        "stock": 2,
+        "stock": 1,
         "unlimited": false
       },
       "861611821": {
@@ -108,7 +108,7 @@
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 8,
+        "stock": 6,
         "unlimited": false
       }
     }
@@ -121,10 +121,6 @@
     "13668893": {
       "name": "닌텐도 스위치 리듬 천국 미라클 스타즈",
       "sellingPrice": 64800
-    },
-    "11559816": {
-      "name": "닌텐도 스위치2 젤다의 전설 브레스 오브 더 와일드 Nintendo Switch 2 Edition",
-      "sellingPrice": 79800
     },
     "12794377": {
       "name": "닌텐도 스위치2 포켓몬 포코피아",
@@ -161,6 +157,10 @@
     "12670051": {
       "name": "닌텐도 스위치2 모여봐요 동물의 숲 Nintendo Switch 2 Edition",
       "sellingPrice": 64800
+    },
+    "13073721": {
+      "name": "닌텐도 스위치 포켓몬 레전드 Z-A 메가차원러시",
+      "sellingPrice": 35000
     },
     "11990827": {
       "name": "닌텐도 스위치2 별의 커비 디스커버리+스타리 월드",
@@ -525,6 +525,10 @@
     "11769242": {
       "name": "[NS 2]닌텐도 스위치 2 브레이블리 디폴트 FLYING FAIRY HD Remaster",
       "sellingPrice": 51800
+    },
+    "4480079": {
+      "name": "[닌텐도 스위치] 스포츠 SPORTS 한글판",
+      "sellingPrice": 59800
     },
     "6897392": {
       "name": "닌텐도 스위치 시바견 조이콘버튼 스틱 커버",
