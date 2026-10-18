@@ -23,17 +23,17 @@
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 82,
+        "stock": 81,
         "unlimited": false
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 76,
+        "stock": 74,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 77,
+        "stock": 76,
         "unlimited": false
       },
       "383918569": {
@@ -53,7 +53,7 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 58,
+        "stock": 57,
         "unlimited": false
       },
       "472721946": {
@@ -78,7 +78,7 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 2,
+        "stock": 0,
         "unlimited": false
       },
       "472721954": {
@@ -88,7 +88,7 @@
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 44,
+        "stock": 43,
         "unlimited": false
       },
       "861611820": {
@@ -103,12 +103,12 @@
       },
       "861611822": {
         "name": "SWITCH 포켓몬스터 실드",
-        "stock": 12,
+        "stock": 11,
         "unlimited": false
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 7,
+        "stock": 6,
         "unlimited": false
       }
     }
@@ -129,10 +129,6 @@
     "13711715": {
       "name": "닌텐도 스위치2 스플래툰 레이더스",
       "sellingPrice": 68000
-    },
-    "14398519": {
-      "name": "닌텐도 스위치2 젤다의 전설 시간의 오카리나 예약판(데스크패드/키캡 키링 택1 증정, 11/4 출고)",
-      "sellingPrice": 88000
     },
     "11716711": {
       "name": "닌텐도 스위치2 동키콩 바난자",
