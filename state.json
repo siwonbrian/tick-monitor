@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 134,
+        "stock": 135,
         "unlimited": false
       },
       "383918562": {
@@ -28,17 +28,17 @@
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 74,
+        "stock": 73,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 76,
+        "stock": 74,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 57,
+        "stock": 54,
         "unlimited": false
       },
       "472721943": {
@@ -83,12 +83,12 @@
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 232,
+        "stock": 229,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 43,
+        "stock": 42,
         "unlimited": false
       },
       "861611820": {
@@ -746,13 +746,13 @@
       "name": "닌텐도 스위치2 포켓몬 포코피아+익스팬션 패스(10/28 출고)",
       "sellingPrice": 127900
     },
-    "14477255": {
-      "name": "닌텐도 스위치2 포켓몬 레전드 Z-A Nintendo Switch 2 Edition+메가 차원 러시(10/28 출고)",
-      "sellingPrice": 109700
-    },
     "12533522": {
       "name": "[NS 2 전용] 닌텐도 스위치 2 젤다무쌍 봉인전기",
       "sellingPrice": 84800
+    },
+    "14477255": {
+      "name": "닌텐도 스위치2 포켓몬 레전드 Z-A Nintendo Switch 2 Edition+메가 차원 러시(10/28 출고)",
+      "sellingPrice": 109700
     },
     "14113449": {
       "name": "[예약판매 10월 22일 출고] 닌텐도 스위치 파밍 캠프",
