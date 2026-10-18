@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 138,
+        "stock": 134,
         "unlimited": false
       },
       "383918562": {
@@ -18,22 +18,22 @@
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 5,
+        "stock": 0,
         "unlimited": false
       },
       "383918565": {
         "name": "SWITCH 뉴 슈퍼마리오 브라더스 U 디럭스",
-        "stock": 81,
+        "stock": 82,
         "unlimited": false
       },
       "383918566": {
         "name": "SWITCH 슈퍼 스매시브라더스 얼티밋",
-        "stock": 78,
+        "stock": 76,
         "unlimited": false
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 80,
+        "stock": 77,
         "unlimited": false
       },
       "383918569": {
@@ -53,7 +53,7 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 60,
+        "stock": 58,
         "unlimited": false
       },
       "472721946": {
@@ -78,17 +78,17 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 4,
+        "stock": 2,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 233,
+        "stock": 232,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 48,
+        "stock": 44,
         "unlimited": false
       },
       "861611820": {
@@ -103,12 +103,12 @@
       },
       "861611822": {
         "name": "SWITCH 포켓몬스터 실드",
-        "stock": 13,
+        "stock": 12,
         "unlimited": false
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 6,
+        "stock": 7,
         "unlimited": false
       }
     }
@@ -421,10 +421,6 @@
     "10250686": {
       "name": "닌텐도 스위치 어둠의 해결사 KAGE 섀도우 오브 더 닌자 카게 (특전포함)",
       "sellingPrice": 37900
-    },
-    "11660525": {
-      "name": "[NS 2] 닌텐도 스위치 2 소닉x섀도우 제너레이션즈",
-      "sellingPrice": 52000
     },
     "12757741": {
       "name": "닌텐도 스위치2 마리오 테니스 피버",
