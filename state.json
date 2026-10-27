@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 104,
+        "stock": 103,
         "unlimited": false
       },
       "383918562": {
@@ -38,7 +38,7 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 36,
+        "stock": 35,
         "unlimited": false
       },
       "472721943": {
@@ -48,7 +48,7 @@
       },
       "472721944": {
         "name": "SWITCH 루이지 맨션 2 HD",
-        "stock": 6,
+        "stock": 7,
         "unlimited": false
       },
       "472721945": {
@@ -557,6 +557,10 @@
     "11769242": {
       "name": "[NS 2]닌텐도 스위치 2 브레이블리 디폴트 FLYING FAIRY HD Remaster",
       "sellingPrice": 51800
+    },
+    "14547590": {
+      "name": "닌텐도 스위치2 저스트 댄스 히트곡 모음 리미티드 에디션(11/9 출고)",
+      "sellingPrice": 59800
     },
     "11406883": {
       "name": "닌텐도 스위치 동방 스펠 카니발 + 조이콘버튼커버 2개",
