@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 183,
+        "stock": 182,
         "unlimited": false
       },
       "383918562": {
@@ -18,7 +18,7 @@
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 70,
+        "stock": 68,
         "unlimited": false
       },
       "383918565": {
@@ -58,12 +58,12 @@
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 93,
+        "stock": 92,
         "unlimited": false
       },
       "472721947": {
         "name": "SWITCH 포켓몬 레전드 아르세우스",
-        "stock": 16,
+        "stock": 15,
         "unlimited": false
       },
       "472721948": {
@@ -78,17 +78,17 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 82,
+        "stock": 81,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 173,
+        "stock": 172,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 174,
+        "stock": 173,
         "unlimited": false
       },
       "861611820": {
@@ -349,10 +349,6 @@
     "2474445": {
       "name": "닌텐도 스위치 아키바스 트립 헬바운드 디브리프드 한글판",
       "sellingPrice": 51700
-    },
-    "6722211": {
-      "name": "이이네 닌텐도 스위치 OLED 라이트 호환 조이콘 별의커비 스틱 커버",
-      "sellingPrice": 9000
     },
     "4984675": {
       "name": "닌텐도 스위치 짱구는못말려 나와 박사의 여름방학 끝나지 않는 7일간의 여행",
