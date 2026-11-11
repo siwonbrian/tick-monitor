@@ -8,17 +8,17 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 170,
+        "stock": 169,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 41,
+        "stock": 40,
         "unlimited": false
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 50,
+        "stock": 49,
         "unlimited": false
       },
       "383918565": {
@@ -53,12 +53,12 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 94,
+        "stock": 93,
         "unlimited": false
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 89,
+        "stock": 88,
         "unlimited": false
       },
       "472721947": {
@@ -78,17 +78,17 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 76,
+        "stock": 74,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 164,
+        "stock": 163,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 154,
+        "stock": 151,
         "unlimited": false
       },
       "861611820": {
@@ -103,7 +103,7 @@
       },
       "861611822": {
         "name": "SWITCH 포켓몬스터 실드",
-        "stock": 10,
+        "stock": 9,
         "unlimited": false
       },
       "879304169": {
@@ -430,13 +430,13 @@
       "name": "닌텐도 스위치2 스트리트 파이터6 Years 1-2 파이터즈 에디션 한글판",
       "sellingPrice": 52800
     },
-    "14520845": {
-      "name": "[NS 2] 닌텐도 스위치 2 스포츠 리조트",
-      "sellingPrice": 69800
-    },
     "10250686": {
       "name": "닌텐도 스위치 어둠의 해결사 KAGE 섀도우 오브 더 닌자 카게 (특전포함)",
       "sellingPrice": 37900
+    },
+    "14520845": {
+      "name": "[NS 2] 닌텐도 스위치 2 스포츠 리조트",
+      "sellingPrice": 69800
     },
     "12430269": {
       "name": "닌텐도 스위치 포켓몬 레전드 Z-A",
@@ -609,10 +609,6 @@
     "11539734": {
       "name": "닌텐도 스위치 팬텀브레이커 : 배틀그라운드 얼티메이트 (예약특전포함)",
       "sellingPrice": 43000
-    },
-    "14547677": {
-      "name": "닌텐도 스위치2 다 함께 즐기자! 프리니 보드 배틀(한국어판 슬리브 증정, 11/11 출고)",
-      "sellingPrice": 69700
     },
     "12149742": {
       "name": "[NS 2] 닌텐도 스위치2 별의 커비 디스커버리 닌텐도 스위치 2 에디션+스타리 월드",
