@@ -8,17 +8,17 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 192,
+        "stock": 193,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 37,
+        "stock": 35,
         "unlimited": false
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 60,
+        "stock": 59,
         "unlimited": false
       },
       "383918565": {
@@ -33,12 +33,12 @@
       },
       "383918568": {
         "name": "SWITCH 별의 커비 Wii 디럭스",
-        "stock": 45,
+        "stock": 44,
         "unlimited": false
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 91,
+        "stock": 89,
         "unlimited": false
       },
       "472721943": {
@@ -58,12 +58,12 @@
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 99,
+        "stock": 98,
         "unlimited": false
       },
       "472721947": {
         "name": "SWITCH 포켓몬 레전드 아르세우스",
-        "stock": 1,
+        "stock": 0,
         "unlimited": false
       },
       "472721948": {
@@ -73,27 +73,27 @@
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 86,
+        "stock": 85,
         "unlimited": false
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 94,
+        "stock": 93,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 286,
+        "stock": 283,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 183,
+        "stock": 173,
         "unlimited": false
       },
       "861611820": {
         "name": "SWITCH 젤다의 전설 지혜의 투영",
-        "stock": 2,
+        "stock": 1,
         "unlimited": false
       },
       "861611821": {
@@ -103,7 +103,7 @@
       },
       "861611822": {
         "name": "SWITCH 포켓몬스터 실드",
-        "stock": 1,
+        "stock": 0,
         "unlimited": false
       },
       "879304169": {
@@ -290,6 +290,10 @@
       "name": "닌텐도 스위치2 이풋볼 킥오프",
       "sellingPrice": 39000
     },
+    "4053553": {
+      "name": "[닌텐도 스위치] 별의 커비 디스커버리 + 조이콘버튼커버 2개",
+      "sellingPrice": 69000
+    },
     "11769184": {
       "name": "[NS 2] 닌텐도 스위치2 젤다의 전설 티어스 오브 더 킹덤 스위치 2 에디션",
       "sellingPrice": 84800
@@ -305,10 +309,6 @@
     "12676091": {
       "name": "닌텐도 스위치 베이블레이드 X 존 컴플리트 에디션 + 조이콘버튼커버 2개",
       "sellingPrice": 69800
-    },
-    "4053553": {
-      "name": "[닌텐도 스위치] 별의 커비 디스커버리 + 조이콘버튼커버 2개",
-      "sellingPrice": 69000
     },
     "4480079": {
       "name": "[닌텐도 스위치] 스포츠 SPORTS 한글판",
@@ -558,6 +558,10 @@
       "name": "닌텐도 스위치 캡틴 츠바사 2 월드 파이터즈 초회판",
       "sellingPrice": 72800
     },
+    "12149742": {
+      "name": "[NS 2] 닌텐도 스위치2 별의 커비 디스커버리 닌텐도 스위치 2 에디션+스타리 월드",
+      "sellingPrice": 84800
+    },
     "6840266": {
       "name": "닌텐도 스위치 세계수의 미궁 123 HD 리마스터 한글판",
       "sellingPrice": 79800
@@ -617,10 +621,6 @@
     "11539734": {
       "name": "닌텐도 스위치 팬텀브레이커 : 배틀그라운드 얼티메이트 (예약특전포함)",
       "sellingPrice": 43000
-    },
-    "12149742": {
-      "name": "[NS 2] 닌텐도 스위치2 별의 커비 디스커버리 닌텐도 스위치 2 에디션+스타리 월드",
-      "sellingPrice": 84800
     },
     "12682501": {
       "name": "닌텐도 스위치 풋볼 매니저 2026 터치 + 조이콘버튼커버 2개",
