@@ -38,7 +38,7 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 89,
+        "stock": 88,
         "unlimited": false
       },
       "472721943": {
@@ -58,7 +58,7 @@
       },
       "472721946": {
         "name": "SWITCH 스플래툰3",
-        "stock": 98,
+        "stock": 97,
         "unlimited": false
       },
       "472721947": {
@@ -78,17 +78,17 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 93,
+        "stock": 92,
         "unlimited": false
       },
       "472721954": {
         "name": "SWITCH 모여봐요 동물의 숲",
-        "stock": 283,
+        "stock": 284,
         "unlimited": false
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 173,
+        "stock": 172,
         "unlimited": false
       },
       "861611820": {
@@ -118,57 +118,57 @@
       "name": "[닌텐도] 닌텐도 스위치 인기 타이틀 모음 25종 중 택1",
       "sellingPrice": 55800
     },
+    "13668893": {
+      "name": "닌텐도 스위치 리듬 천국 미라클 스타즈",
+      "sellingPrice": 64800
+    },
     "14398519": {
       "name": "닌텐도 스위치2 젤다의 전설 시간의 오카리나",
       "sellingPrice": 88000
     },
-    "13668893": {
-      "name": "닌텐도 스위치 리듬 천국 미라클 스타즈",
-      "sellingPrice": 61800
-    },
     "12794377": {
       "name": "닌텐도 스위치2 포켓몬 포코피아",
-      "sellingPrice": 83000
+      "sellingPrice": 88000
     },
     "13711715": {
       "name": "닌텐도 스위치2 스플래툰 레이더스",
-      "sellingPrice": 71000
+      "sellingPrice": 73000
     },
     "11559807": {
       "name": "닌텐도 스위치2 마리오 카트 월드",
-      "sellingPrice": 88000
+      "sellingPrice": 98000
     },
     "13011810": {
       "name": "닌텐도 스위치2 슈퍼 마리오브라더스 원더+다 함께 방울 파크",
-      "sellingPrice": 79800
+      "sellingPrice": 84800
     },
     "11716711": {
       "name": "닌텐도 스위치2 동키콩 바난자",
-      "sellingPrice": 83000
+      "sellingPrice": 88000
     },
     "12670051": {
       "name": "닌텐도 스위치2 모여봐요 동물의 숲 Nintendo Switch 2 Edition",
-      "sellingPrice": 64800
+      "sellingPrice": 69800
     },
     "13422794": {
       "name": "닌텐도 스위치2 요시와 신기한 도감 예약판(아크릴 스탠드 증정)",
-      "sellingPrice": 71000
+      "sellingPrice": 78000
     },
     "12173958": {
       "name": "닌텐도 스위치2 포켓몬 레전드 ZA",
-      "sellingPrice": 70000
+      "sellingPrice": 79800
     },
     "11990827": {
       "name": "닌텐도 스위치2 별의 커비 디스커버리+스타리 월드",
-      "sellingPrice": 79800
+      "sellingPrice": 84800
     },
     "13103376": {
       "name": "닌텐도 스위치 친구모아 아일랜드 두근두근 라이프",
-      "sellingPrice": 62800
+      "sellingPrice": 64800
     },
     "11801840": {
       "name": "닌텐도 스위치2 슈퍼 마리오 파티 잼버리+잼버리 TV",
-      "sellingPrice": 79800
+      "sellingPrice": 84800
     },
     "13662337": {
       "name": "닌텐도 스위치2 스타폭스",
