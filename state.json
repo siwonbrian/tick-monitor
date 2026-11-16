@@ -8,17 +8,17 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 192,
+        "stock": 191,
         "unlimited": false
       },
       "383918562": {
         "name": "SWITCH 슈퍼 마리오 3D 월드+퓨리 월드",
-        "stock": 35,
+        "stock": 36,
         "unlimited": false
       },
       "383918563": {
         "name": "SWITCH 슈퍼 마리오 오디세이",
-        "stock": 59,
+        "stock": 58,
         "unlimited": false
       },
       "383918565": {
@@ -53,7 +53,7 @@
       },
       "472721945": {
         "name": "SWITCH 슈퍼 마리오브라더스 원더",
-        "stock": 93,
+        "stock": 91,
         "unlimited": false
       },
       "472721946": {
@@ -68,7 +68,7 @@
       },
       "472721948": {
         "name": "SWITCH 루이지 맨션 3",
-        "stock": 7,
+        "stock": 6,
         "unlimited": false
       },
       "472721952": {
@@ -78,7 +78,7 @@
       },
       "472721953": {
         "name": "SWITCH 포켓몬스터 스칼렛",
-        "stock": 90,
+        "stock": 89,
         "unlimited": false
       },
       "472721954": {
@@ -273,10 +273,6 @@
     "10626056": {
       "name": "닌텐도 스위치 슈퍼 마리오 파티 잼버리 + 조이콘버튼커버 2개",
       "sellingPrice": 69000
-    },
-    "11769174": {
-      "name": "[NS 2] 닌텐도 스위치2 젤다의 전설 브레스 오브 더 와일드 스위치 2 에디션",
-      "sellingPrice": 89000
     },
     "12596021": {
       "name": "닌텐도 스위치 스미코구라시 만들어 봐요 멋진 스미코섬",
