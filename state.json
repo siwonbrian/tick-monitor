@@ -73,7 +73,7 @@
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 81,
+        "stock": 80,
         "unlimited": false
       },
       "472721953": {
@@ -88,7 +88,7 @@
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 171,
+        "stock": 169,
         "unlimited": false
       },
       "861611820": {
@@ -577,10 +577,6 @@
     "4559456": {
       "name": "닌텐도 스위치 마리오카트8 디럭스 부스터 코스 패스",
       "sellingPrice": 29000
-    },
-    "14507410": {
-      "name": "닌텐도 스위치2 헬로키티 아일랜드 어드벤처 Nintendo Switch 2 Edition 프렌드십 번들(11/19 출고)",
-      "sellingPrice": 79800
     },
     "11769242": {
       "name": "[NS 2]닌텐도 스위치 2 브레이블리 디폴트 FLYING FAIRY HD Remaster",
