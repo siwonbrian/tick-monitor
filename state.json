@@ -8,7 +8,7 @@
     "options": {
       "383918560": {
         "name": "SWITCH 마리오 카트 8 디럭스",
-        "stock": 182,
+        "stock": 183,
         "unlimited": false
       },
       "383918562": {
@@ -38,12 +38,12 @@
       },
       "383918569": {
         "name": "SWITCH 별의 커비 디스커버리",
-        "stock": 83,
+        "stock": 82,
         "unlimited": false
       },
       "472721943": {
         "name": "SWITCH 별의 커비 스타 얼라이즈",
-        "stock": 34,
+        "stock": 35,
         "unlimited": false
       },
       "472721944": {
@@ -73,7 +73,7 @@
       },
       "472721952": {
         "name": "SWITCH 포켓몬스터바이올렛",
-        "stock": 71,
+        "stock": 70,
         "unlimited": false
       },
       "472721953": {
@@ -88,7 +88,7 @@
       },
       "861611819": {
         "name": "SWITCH 슈퍼 마리오 파티 잼버리",
-        "stock": 163,
+        "stock": 162,
         "unlimited": false
       },
       "861611820": {
@@ -108,7 +108,7 @@
       },
       "879304169": {
         "name": "SWITCH 피크민 4",
-        "stock": 96,
+        "stock": 97,
         "unlimited": false
       }
     }
@@ -201,10 +201,6 @@
     "14085517": {
       "name": "닌텐도 스위치2 파이어 엠블렘 만자천홍",
       "sellingPrice": 98000
-    },
-    "9458362": {
-      "name": "닌텐도 스위치 짱구는 못말려! 탄광마을의 흰둥이 한글판",
-      "sellingPrice": 69000
     },
     "3530581": {
       "name": "닌텐도 스위치 모여봐요 동물의 숲 해피 홈 파라다이스",
